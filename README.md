@@ -16,10 +16,11 @@ Day       Time   Rank  Score       Time   Rank  Score
  10       >24h  64323      0       >24h  60413      0
  11       >24h  53516      0       >24h  46633      0
  12       >24h  38816      0       >24h  37928      0
+ 13   17:45:40  28772      0   18:19:11  27930      0
 ```
 
 ### Adjusted Times
-For when I had to start late, these are the times from when I started until the finish.
+For when I had to start late, these are the times from when I started until the finish. When I started late, I sometimes took breaks which were not included in the time.
 ```
 Day    Part 1     Part 2 
   1   00:03:36   00:04:55
@@ -34,4 +35,5 @@ Day    Part 1     Part 2
  10   00:09:38   00:19:59
  11   00:25:02   02:09:26
  12   00:47:43   00:52:03
+ 13   00:17:29   00:45:50
 ```
